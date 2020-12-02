@@ -1,4 +1,4 @@
-# EF1500_BIZHAWK_NEAT_EVOLUTION
+# BIZHAWK_NEAT_EVOLUTION
 Implementation of the NEAT evolution algorithm, inspired by SethBling.
 I saw some places that it could be improved upon slightly.
 
